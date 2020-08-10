@@ -12,5 +12,6 @@ namespace Infrastructure.Data
 
         public DbSet<Product> Products {get;set;}
         public DbSet<Unit> Units {get;set;}
+        public DbSet<ProductPrice> ProductPrices { get; set; }
     }
 }

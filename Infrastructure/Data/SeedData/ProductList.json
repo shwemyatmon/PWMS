@@ -1,0 +1,42 @@
+[
+ {
+   "Name": "1 Litre Water Bottle",
+   "Description": "Purified Drinking Water",
+   "ProductAmount": 1,
+   "CreatedBy": 1,
+   "CreatedOn": "2020-08-10",
+   "ModifiedBy": 1,
+   "ModifiedOn": "2020-08-10",
+   "IsDeleted": false
+ },
+ {
+   "Name": "0.5 Litre Water Bottle",
+   "Description": "Purified Drinking Water",
+   "ProductAmount": 0.5,
+   "CreatedBy": 1,
+   "CreatedOn": "2020-08-10",
+   "ModifiedBy": 1,
+   "ModifiedOn": "2020-08-10",
+   "IsDeleted": false
+ },
+ {
+   "Name": "0.3 Litre Water Bottle",
+   "Description": "Purified Drinking Water",
+   "ProductAmount": 0.3,
+   "CreatedBy": 1,
+   "CreatedOn": "2020-08-10",
+   "ModifiedBy": 1,
+   "ModifiedOn": "2020-08-10",
+   "IsDeleted": false
+ },
+ {
+   "Name": "20 Litre Water Bottle",
+   "Description": "Purified Drinking Water",
+   "ProductAmount": 20,
+   "CreatedBy": 1,
+   "CreatedOn": "2020-08-10",
+   "ModifiedBy": 1,
+   "ModifiedOn": "2020-08-10",
+   "IsDeleted": false
+ }
+]

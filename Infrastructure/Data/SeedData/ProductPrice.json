@@ -1,0 +1,86 @@
+[
+ {
+   "WholeSalePrice": 300,
+   "RetailPrice": 350,
+   "CreatedBy": 1,
+   "CreatedOn": "2020-08-10",
+   "ModifiedBy": 1,
+   "ModifiedOn": "2020-08-10",
+   "IsActive": true,
+   "IsDeleted": false,
+   "UnitId": 1,
+   "ProductId": 1
+ },
+ {
+   "WholeSalePrice": 3000,
+   "RetailPrice": 3500,
+   "CreatedBy": 1,
+   "CreatedOn": "2020-08-11",
+   "ModifiedBy": 1,
+   "ModifiedOn": "2020-08-11",
+   "IsActive": true,
+   "IsDeleted": false,
+   "UnitId": 2,
+   "ProductId": 1
+ },
+ {
+   "WholeSalePrice": 200,
+   "RetailPrice": 250,
+   "CreatedBy": 1,
+   "CreatedOn": "2020-08-12",
+   "ModifiedBy": 1,
+   "ModifiedOn": "2020-08-12",
+   "IsActive": true,
+   "IsDeleted": false,
+   "UnitId": 1,
+   "ProductId": 2
+ },
+ {
+   "WholeSalePrice": 2000,
+   "RetailPrice": 2500,
+   "CreatedBy": 1,
+   "CreatedOn": "2020-08-13",
+   "ModifiedBy": 1,
+   "ModifiedOn": "2020-08-13",
+   "IsActive": true,
+   "IsDeleted": false,
+   "UnitId": 2,
+   "ProductId": 2
+ },
+ {
+   "WholeSalePrice": 150,
+   "RetailPrice": 200,
+   "CreatedBy": 1,
+   "CreatedOn": "2020-08-14",
+   "ModifiedBy": 1,
+   "ModifiedOn": "2020-08-14",
+   "IsActive": true,
+   "IsDeleted": false,
+   "UnitId": 1,
+   "ProductId": 3
+ },
+ {
+   "WholeSalePrice": 1500,
+   "RetailPrice": 2000,
+   "CreatedBy": 1,
+   "CreatedOn": "2020-08-15",
+   "ModifiedBy": 1,
+   "ModifiedOn": "2020-08-15",
+   "IsActive": true,
+   "IsDeleted": false,
+   "UnitId": 2,
+   "ProductId": 3
+ },
+ {
+   "WholeSalePrice": 300,
+   "RetailPrice": 400,
+   "CreatedBy": 1,
+   "CreatedOn": "2020-08-16",
+   "ModifiedBy": 1,
+   "ModifiedOn": "2020-08-16",
+   "IsActive": true,
+   "IsDeleted": false,
+   "UnitId": 1,
+   "ProductId": 4
+ }
+]
